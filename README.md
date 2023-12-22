@@ -1,16 +1,4 @@
-# idzassignment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# IDZ DIGITAL ASSIGNMENT
+APK LINK: 
+## UI
+![Slide 16_9 - 8](https://github.com/gyanraj06/idz-assignment-01/assets/64907746/f0928f15-7f91-4aa8-bc59-843cc28b5fe0)
